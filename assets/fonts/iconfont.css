@@ -1,0 +1,40 @@
+@font-face {font-family: "icomoon";
+  src: url('iconfont.eot?t=1556074652257'); /* IE9 */
+  src: url('iconfont.eot?t=1556074652257#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1556074652257') format('woff'),
+  url('iconfont.ttf?t=1556074652257') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1556074652257#icomoon') format('svg'); /* iOS 4.1- */
+}
+
+.icomoon {
+  font-family: "icomoon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tishi:before {
+  content: "\e69b";
+}
+
+.icon-shangyi:before {
+  content: "\e7b5";
+}
+
+.icon-xiayi:before {
+  content: "\e7b6";
+}
+
+.icon-zhanghao:before {
+  content: "\e604";
+}
+
+.icon-denglumima:before {
+  content: "\e605";
+}
+
+.icon-anquan:before {
+  content: "\e606";
+}
+
